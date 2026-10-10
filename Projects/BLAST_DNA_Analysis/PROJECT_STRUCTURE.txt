@@ -1,0 +1,14 @@
+BLAST_Unknown_DNA_Project/
+├── README.md
+├── requirements.txt
+├── PROJECT_STRUCTURE.txt
+├── data/                         # place optional input files here
+├── src/
+│   ├── pairwise_species_alignment.py
+│   ├── experiments.py
+│   ├── decision_rule.py
+│   ├── make_results_csv.py
+│   ├── ncbi_blast.py
+│   └── offline_demo.py
+├── results/                      # generated CSV files
+└── figures/                      # generated PNG plots
