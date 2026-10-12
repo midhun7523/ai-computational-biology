@@ -73,4 +73,4 @@ Availability and placement of electives may depend on the current department off
 
 ## Important note
 
-The uploaded PDF is titled *Syllabus for B.S. (Honours) & B.S. (Honours with Research) in Artificial Intelligence and Computational Biology*, effective from the June 2024 batch onwards. Because course offerings can change, confirm current course titles, credits and assessment details with SSSIHL before relying on this document for official academic decisions.
+*Syllabus for B.S. (Honours) & B.S. (Honours with Research) in Artificial Intelligence and Computational Biology*, effective from the June 2024 batch onwards. Because course offerings can change, confirm current course titles, credits and assessment details with SSSIHL before relying on this document for official academic decisions.
